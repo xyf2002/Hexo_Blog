@@ -7,35 +7,40 @@ cover: true
 categories: Portfolio
 ---
 
-## About Yufeng(Alex) Xia
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yufeng Xia | 💻 Full Stack Developer | 🛸 China , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-Hello! I'm Alex, a Computer Science student at the University of Edinburgh, passionate about technology and innovation. My journey in the tech world has been marked by a strong commitment to learning and applying my knowledge in practical settings.
+ <h5 align="center">
+   <i>⚡Java is the best language in the world⚡</i>
+  </h5>
 
-### Education
 
-- **University of Edinburgh**
-  - BSc in Computer Science
-  - Expected Graduation: [2025]
+- 🔭 I’m currently studying at the University of Edinburgh 
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: - [LinkedIn](https://www.linkedin.com/in/yufeng-xia-12648a25b/) [GitHub](https://github.com/xyf2002)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: ...
 
-### Professional Experience
 
-- **Backend Development Intern at Senior Tech**
-  - Contributed to the Uniqlo Express delivery platform upgrade.
-  - Gained hands-on experience with Spring Boot,  MySQL, Redis, and Vue.js.
 
-### Skills
 
-- Proficient in backend development, cloud computing, and database management.
-- Experienced in working with diverse teams and delivering high-quality software solutions.
 
-### Personal Interests
+##### Sites🌱
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff)](https://github.com/xyf2002)
 
-- Keen interest in robotics, cloud computing, and the latest tech trends.
-- Enjoy collaborating on innovative projects that challenge the status quo and make a real-world impact.
+##### - Languages and Tools...
 
-### Connect with Me
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
-- [LinkedIn](https://www.linkedin.com/in/yufeng-xia-12648a25b/)
-- [GitHub](https://github.com/xyf2002)
-
-Thank you for visiting my blog. Feel free to reach out for collaboration or just a chat about technology!
+<!-- svg -->
+<div>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+  <img src="https://techstack-generator.vercel.app/redux-icon.s
