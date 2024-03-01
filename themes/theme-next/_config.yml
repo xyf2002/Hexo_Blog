@@ -202,6 +202,7 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
+  CSDN: https://blog.csdn.net/m0_60670525?type=blog
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -389,8 +390,8 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: false
-  permalink: https://github.com/yourname
+  enable: true
+  permalink: https://github.com/xyf2002
   title: Follow me on GitHub
 
 
