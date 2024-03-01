@@ -203,6 +203,7 @@ links_settings:
 links:
   #Title: http://yoursite.com
   CSDN: https://blog.csdn.net/m0_60670525?type=blog
+  HOME: https://yufenghome.vercel.app/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
