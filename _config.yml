@@ -109,6 +109,8 @@ deploy:
 search:
   path: search.xml
   field: post
+  format: html
+  limit: 10
 
 #文章字数统计插件
 postInfo:
